@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import HelloWorldButton from "./HelloWorld";
 import "./style.css";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 
 class App extends React.Component{
